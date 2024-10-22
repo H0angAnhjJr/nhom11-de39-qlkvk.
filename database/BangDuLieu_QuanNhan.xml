@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<wrapper>
+    <data>
+        <QuanNhan>
+            <ID>H7L4dDeZUd</ID>
+            <hoTen>33</hoTen>
+            <ma>33</ma>
+            <donVi></donVi>
+            <capBac>33</capBac>
+        </QuanNhan>
+        <QuanNhan>
+            <ID>oWQc5tCY5u</ID>
+            <hoTen>123</hoTen>
+            <ma>12312</ma>
+            <donVi>123</donVi>
+            <capBac>123</capBac>
+        </QuanNhan>
+        <QuanNhan>
+            <ID>DAlbY3Danv</ID>
+            <hoTen>123</hoTen>
+            <ma>123</ma>
+            <donVi>123</donVi>
+            <capBac>123</capBac>
+        </QuanNhan>
+        <QuanNhan>
+            <ID>1h8kG8QCK7</ID>
+            <hoTen>234</hoTen>
+            <ma>123</ma>
+            <donVi>234</donVi>
+            <capBac>234</capBac>
+        </QuanNhan>
+    </data>
+</wrapper>
